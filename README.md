@@ -3,7 +3,7 @@
 
 It should be notice that we use the PyTorch 1.9, python 3.7. If one use the lastest PyTorch and python, there will be some errors.
 The paper is as follow:
-RAAN A Gaussian prior domain adaptive network for rolling bearing fault diagnosis under variable working conditions 
+
 
 Adversarial domain-adapted bearing fault diagnosis based on ResNet and LIMMD（Not yet retrieved）
 
